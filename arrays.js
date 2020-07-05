@@ -11,6 +11,3 @@ function addElementToBeginningOfArray(chocolateBars,Twix){
 function destructivelyAddElementToBeginningOfArray(chocolateBars, Twix){
   return [...chocolateBars, Twix]
 }
-function addElementToEndOfArray(chocolateBars, Twix){
-  return [...chocolatebars, Twix]
-}
