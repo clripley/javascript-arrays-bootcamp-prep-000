@@ -9,5 +9,5 @@ function addElementToBeginningOfArray(chocolateBars,Twix){
   return [Twix, ...ChocolateBars]
 }
 function destructivelyAddElementToBeginningOfArray(chocolateBars, Twix){
-  return [...chocolateBars, twix]
+  return [...chocolateBars, Twix]
 }
