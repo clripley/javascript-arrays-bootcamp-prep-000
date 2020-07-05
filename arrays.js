@@ -29,3 +29,7 @@ function destructivelyRemoveElementFromBeginningOfArray(chocolateBars){
   chocolateBars.shift();
   return chocolateBars;
 }
+function destructivelyRemoveElemntFromBeginningOfArray(chocolateBars){
+  chocolateBars.unshift();
+  return chocolateBars;
+}
