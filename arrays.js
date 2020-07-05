@@ -6,7 +6,7 @@ var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 function addElementToBeginningOfArray(chocolateBars,Twix){
-  return [Twix, ...ChocolateBars]
+  return [Twix, ...chocolateBars]
 }
 function destructivelyAddElementToBeginningOfArray(chocolateBars, Twix){
   return [...chocolateBars, Twix]
