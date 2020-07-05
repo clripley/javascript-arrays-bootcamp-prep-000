@@ -32,3 +32,4 @@ function destructivelyRemoveElementFromBeginningOfArray(chocolateBars){
 function removeElementFromBeginningOfArray(chocolateBars){
   chocolateBars.unshift()
   return chocolateBars
+}
